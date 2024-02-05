@@ -1,0 +1,40 @@
+<?
+$aMenuLinks = Array(
+    Array(
+        "Стандарт",
+        "/prozhivanie/standart/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Люкс",
+        "/prozhivanie/luxe/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Полулюкс",
+        "/prozhivanie/junior/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Коттедж",
+        "/prozhivanie/cottage/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Экокоттедж",
+        "/prozhivanie/ecocottage/",
+        Array(),
+        Array(),
+        ""
+    ),
+
+);
+?>

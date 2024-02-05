@@ -1,0 +1,6 @@
+@media (max-width: 767px) {
+    .col-md-6 {
+        padding-left: 30px;
+        padding-right: 40px;
+    }
+}

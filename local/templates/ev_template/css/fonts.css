@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Adobe Clean';
+  font-weight: 400;
+  src: url('/local/templates/ev_template/fonts/AdobeClean/AdobeClean-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Adobe Clean';
+  font-weight: 500;
+  src: url('/local/templates/ev_template/fonts/AdobeClean/AdobeClean-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Adobe Clean';
+  font-weight: 700;
+  src: url('/local/templates/ev_template/fonts/AdobeClean/AdobeClean-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Idealist Sans';
+  font-weight: 400;
+  src: url('/local/templates/ev_template/fonts/Idealist\ Sans.ttf') format('truetype');
+}

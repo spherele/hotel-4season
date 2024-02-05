@@ -1,0 +1,53 @@
+.processing {
+    width: 80%;
+    height: 100%;
+    text-align: center;
+    padding-top: 150px;
+    position: absolute;
+    z-index: 9999;
+    display: none;
+    pointer-events: none;
+    user-select: none;
+}
+
+.processing img {
+    display: inline-block;
+}
+
+.modal-wrapper .button-select{
+    background: var(--primary-default) !important;
+    border-radius: 8px !important;
+    color: white !important;
+}
+.file_input::-webkit-file-upload-button {
+    display: none;
+}
+
+.file_input::file-selector-button {
+    display: none;
+}
+.headers_webform{
+    margin-bottom: 7px;
+    font-weight: bold;
+}
+
+.file_input{
+
+    max-width: -webkit-fill-available;
+}
+
+.modal__wrap .j_dropdown{
+    max-width: -webkit-fill-available;
+    margin: auto !important;
+}
+
+.modal__wrap .j_dropdown:not(:last-child){
+
+    margin-bottom: 14px !important;
+
+}
+
+.modal__wrap .dropdown__placeholder{
+width: 85% !important;
+}
+

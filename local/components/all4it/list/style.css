@@ -1,0 +1,11 @@
+.facilties .main {
+    background: transparent;
+    padding: 30px 20px;
+    -webkit-transition: .5s;
+    transition: .5s;
+    position: relative;
+    z-index: 1;
+    margin-bottom: 30px;
+    line-height: 1;
+}
+

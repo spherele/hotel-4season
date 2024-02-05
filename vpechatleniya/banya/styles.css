@@ -1,0 +1,11 @@
+
+.tabs-icon {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.tabs-icon .item {
+    flex: 0 0 auto;
+    width: 48%; /* Устанавливайте ширину по мере необходимости */
+}

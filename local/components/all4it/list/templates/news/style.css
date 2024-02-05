@@ -1,0 +1,10 @@
+.news .owl-theme .owl-nav [class*=owl-] {
+
+    opacity: 1 !important;
+}
+
+.news .owl-theme .owl-nav [class*=owl-] {
+    margin-right: -85px !important;
+    margin-left: -85px !important;
+
+}

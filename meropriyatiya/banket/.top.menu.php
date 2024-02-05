@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Проживание", 
+		"/prozhivanie/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Впечатления", 
+		"/vpechatleniya/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Ресторан", 
+		"/restoran/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Мероприятия", 
+		"/meropriyatiya/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Галерея", 
+		"/galereya/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Спецпредложения", 
+		"/spetspredlozheniya/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/kontakty/",
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

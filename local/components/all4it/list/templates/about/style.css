@@ -1,0 +1,26 @@
+.about .container {
+    padding: 60px
+}
+
+.section-padding .about {
+    padding: 60px 0
+}
+
+@media (min-width: 768px) {
+    .gallery-box-1{
+        margin-top: 90px;
+        margin-bottom: 30px;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .gallery-box-1 {
+    }
+}
+
+@media (max-width: 767px) {
+    .about .container {
+        padding: 20px
+    }
+}

@@ -1,0 +1,49 @@
+.mfp-img-wrapper {
+  position: relative;
+}
+
+.mfp-img-detail {
+  position: absolute;
+
+  top: 40px;
+  right: 0;
+
+  width: 100%;
+  height: calc(100% - 40px * 2);
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 25px;
+
+  font-family: 'Adobe Clean', sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+
+  line-height: 1.5;
+  text-transform: uppercase;
+
+  color: #FFF;
+  background-image: linear-gradient(to bottom, transparent 80%, #000);
+}
+
+.nav-scroll {
+  background-color: #FFF;
+}
+
+.navbar {
+  height: unset !important;
+  max-width: 100dvw;
+}
+
+.navbar:has(.navbar-collapse.show, .navbar-collapse.collapsing) {
+  background-color: #FFF;
+}
+
+.navbar:has(.navbar-collapse.show, .navbar-collapse.collapsing) .navbar-toggler-icon {
+  color: #819495;
+}
+
+.navbar:has(.navbar-collapse.show, .navbar-collapse.collapsing) .logo img {
+  content: url('/local/templates/ev_template/img/logo_header_black.png');
+}
